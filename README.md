@@ -1,5 +1,5 @@
 # Undocumented-Illegal
-Research on the effect of the terms "undocumented immigrant" and "illegal immigrant" on people's views about immigration policy.
+Research on the effect that using the term "illegal immigrant" has on people's views on immigration policy as compared with the term "undocumented immigrant."
 
 IllegalUndocumented.ipynb -- Python Code to analyze corpus data and survey results
 
@@ -13,7 +13,7 @@ Phrases scraped from COCA:
 "ILLEGAL IMMIGRANTS"
 "ILLEGAL IMMIGRATION"
 
-SurveyData.csv -- data from survey testing effect of using the term "undocumented immigrant" as compared to the term "illegal immigrant" on people's views on immigration policy 
+SurveyData.csv -- data from a survey experiment where people were randomly assigned to answer questions about their views on immigration policies described using either the term "illegal immigrant" or the term "undocumented immigrant"
 
 
 
