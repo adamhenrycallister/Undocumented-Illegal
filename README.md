@@ -1,7 +1,10 @@
-# Undocumented-Illegal
-Research on the effect that using the term "illegal immigrant" has on people's views on immigration policy as compared with the term "undocumented immigrant."
+# "Illegal Immigrant" vs. "Undocumented Immigrant"
 
-IllegalUndocumented.ipynb -- Python Code to analyze corpus data and survey results
+Drawing on data from the Corpus of Contemporary American English and a survey experiment conducted in April of 2019, I test the theory that using the term "illegal immigrant" instead of "undocumented immigrant" causes people to favor more restrictive immigration policies and dehumanize immigrants.
+
+Check out the "IllegalUndocumented.ipynb" file to see the results of my analysis.
+
+Other files:
 
 ScrapeCOCA.py -- function to scrape data from the Corpus of Contemporary American English (COCA)
 

@@ -19,7 +19,7 @@ def corpusScraper(website):
 			6) Go to Account tab
 			7) click on see history
 			8) click on the check mark under "Share Link" for the particular search you're interested in
-			9) copy the link and pass it as an arguement to this function
+			9) copy the link and pass it as an argument to this function
 		Note: the link will not work indefinitely, you may have to go back and retrieve a new version from "Share Link" every once in a while
 	"""
 
