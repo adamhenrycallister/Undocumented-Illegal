@@ -9,12 +9,12 @@ Other files:
 ScrapeCOCA.py -- function to scrape data from the Corpus of Contemporary American English (COCA)
 
 Phrases scraped from COCA:
->  "UNDOCUMENTED IMMIGRANT"
-"UNDOCUMENTED IMMIGRANTS"
-"UNDOCUMENTED IMMIGRATION"
-"ILLEGAL IMMIGRANT"
-"ILLEGAL IMMIGRANTS"
-"ILLEGAL IMMIGRATION"
+ - "UNDOCUMENTED IMMIGRANT"
+ - "UNDOCUMENTED IMMIGRANTS"
+ - "UNDOCUMENTED IMMIGRATION"
+ - "ILLEGAL IMMIGRANT"
+ - "ILLEGAL IMMIGRANTS"
+ - "ILLEGAL IMMIGRATION"
 
 SurveyData.csv -- data from a survey experiment where people were randomly assigned to answer questions about their views on immigration policies described using either the term "illegal immigrant" or the term "undocumented immigrant"
 
